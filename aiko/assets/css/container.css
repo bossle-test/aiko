@@ -1,0 +1,11 @@
+@charset "utf-8";
+.container{display: flex;
+          max-width: 1400px;
+        margin: 0 auto;}
+
+  :root{--primary-color:#0511F2;
+        --second-color:#020873;
+         --item-color:#0BD904;
+         --color-extra:#033E8C;}
+
+         
